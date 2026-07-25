@@ -1,0 +1,20 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Node (if tooling gets added later)
+node_modules/
+npm-debug.log*
+
+# Env
+.env
+.env.local
+
+# Impeccable / internal project docs — not part of the hosted site
+.claude
+DESIGN.md
+PRODUCT.md
